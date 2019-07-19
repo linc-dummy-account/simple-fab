@@ -1,0 +1,16 @@
+{
+  "name": "absolute-minimal-fab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Tests passing!'",
+    "build:fab": "fab-static src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fab/static": "^0.1.4"
+  }
+}
